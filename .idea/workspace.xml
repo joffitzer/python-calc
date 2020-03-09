@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03a3e303-b501-49b3-9c6a-4eb705772e75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/madlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.lists">
+  <component name="RunManager" selected="Python.tuples">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Calculator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,8 +95,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Calculator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tuples" />
         <item itemvalue="Python.lists" />
         <item itemvalue="Python.madlib" />
         <item itemvalue="Python.calculator" />
@@ -123,21 +143,21 @@
       <screen x="0" y="23" width="1440" height="824" />
     </state>
     <state x="194" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.824@0.23.1440.824" timestamp="1583760994849" />
-    <state width="1379" height="199" key="GridCell.Tab.0.bottom" timestamp="1583762404260">
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom" timestamp="1583763295271">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1583762404260" />
-    <state width="1379" height="199" key="GridCell.Tab.0.center" timestamp="1583762404259">
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1583763295271" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center" timestamp="1583763295270">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1583762404259" />
-    <state width="1379" height="199" key="GridCell.Tab.0.left" timestamp="1583762404259">
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1583763295270" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left" timestamp="1583763295270">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1583762404259" />
-    <state width="1379" height="199" key="GridCell.Tab.0.right" timestamp="1583762404260">
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1583763295270" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right" timestamp="1583763295271">
       <screen x="0" y="23" width="1440" height="824" />
     </state>
-    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1583762404260" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1583763295271" />
   </component>
 </project>
